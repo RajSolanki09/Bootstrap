@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.img-100px img{
+    width: 150px;
+    height: 50px;
+}
+.purpul{
+    background-color: #1433CA;
+}
+.text-purpul{
+    color: #1433CA;
+}
+.image{
+    height: 600px;
+}
+.fs-7{
+    font-size: 56px;
+}
+.socil img{
+    width: 800px;
+    padding-top: 50px;
+}

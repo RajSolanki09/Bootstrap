@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    background-image: url(../images/bg.jpg);
+    background-size: cover;
+    background-position: 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.letter-spacing{
+    letter-spacing: 5px;
+    
+}
